@@ -2,6 +2,8 @@
 
 The future of AI is Responsible! This repository is a one-stop shop for curated, high-quality research on the test and evaluation of responsible AI.
 
+<br/>
+
 Responsible AI is a set of principles and practices that ensure AI is developed and used in a way that's beneficial, ethical, and minimizes risks. It's about building trust in AI by focusing on these core pillars:
 
 1. Trustworthiness
@@ -10,13 +12,15 @@ Responsible AI is a set of principles and practices that ensure AI is developed 
 4. Fairness and Bias
 5. Privacy
 
+<br/>
 
-**1. Trustworthiness** 
+**1. Trustworthiness**
 
 | Date  | Paper |
 | ------------- | ------------- | 
 | Apr 2024  | [Long-Form Factuality in Large Language Models](https://arxiv.org/pdf/2403.18802.pdf) | 
 
+<br/>
 
 **2. Explainability**
 
@@ -35,11 +39,16 @@ Responsible AI is a set of principles and practices that ensure AI is developed 
 | Feb 2018 | [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810) | 
 | Jan 2018 | [A Human-Grounded Evaluation Benchmark for Local Explanations of Machine Learning](https://arxiv.org/abs/1801.05075) | 
 
+<br/>
 
 **3. Safety and Security**
 
+<br/>
 
 **4. Fairness and Bias**
 
+<br/>
 
 **5. Privacy**
+
+<br/>
