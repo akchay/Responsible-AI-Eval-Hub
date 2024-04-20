@@ -8,8 +8,8 @@ Responsible AI is a set of principles and practices that ensure AI is developed 
 
 1. Trustworthiness
 2. Explainability
-3. Safety and Security
-4. Fairness and Bias
+3. Fairness and Bias
+4. Safety and Security
 5. Privacy
 
 <br/>
@@ -41,14 +41,26 @@ Responsible AI is a set of principles and practices that ensure AI is developed 
 
 <br/>
 
-**3. Safety and Security**
+**3. Fairness and Bias**
+
+| Date  | Paper | 
+| ------------- | ------------- | 
+| Jan 2024 | [Evaluating Gender Bias in Large Language Models via Chain-of-Thought Prompting](https://arxiv.org/abs/2401.15585) |
+| Dec 2023 | [GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models](https://arxiv.org/abs/2312.06315) |
+| May 2022 | [You Reap What You Sow: On the Challenges of Bias Evaluation Under Multilingual Settings](https://aclanthology.org/2022.bigscience-1.3.pdf) |
+| Jun 2021 | [RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models](https://arxiv.org/abs/2106.03521) |
+| Jun 2021 | [Towards Understanding and Mitigating Social Biases in Language Models](https://arxiv.org/abs/2106.13219) |
+| Jun 2021 | [Towards a Comprehensive Understanding and Accurate Evaluation of Societal Biases in Pre-Trained Transformers](https://aclanthology.org/2021.naacl-main.189.pdf) |
+| Apr 2020 | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/abs/2004.09456) |
+| Nov 2019 | [Reducing Sentiment Bias in Language Models via Counterfactual Evaluation](https://arxiv.org/abs/1911.03064) | 
+| Apr 2019 | [Identifying and Reducing Gender Bias in Word-Level Language Models](https://arxiv.org/abs/1904.03035) |
 
 <br/>
 
-**4. Fairness and Bias**
+**4. Safety and Security**
 
 <br/>
-
+   
 **5. Privacy**
 
 <br/>
