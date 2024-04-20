@@ -1,6 +1,6 @@
 ✨ **Responsible AI Evaluation Hub** ✨
 
-The future of AI is Responsible! This repository is a one-stop shop for curated, high-quality research on the "Test and Evaluation of Responsible AI". 
+The future of AI is Responsible! This repository is a one-stop shop for curated, high-quality research on the Test and Evaluation of Responsible AI. 
 
 <br/>
 
